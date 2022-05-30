@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hello World, NCS Here ! <br>
 
-![](https://komarev.com/ghpvc/?username=nandu-ncs)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandu-ncs)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandu-ncs)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nandu-ncs)](https://git.io/streak-stats)
+![](https://komarev.com/ghpvc/?username=nandu-ncs)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandu-ncs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nandu-ncs&theme=dark)](https://git.io/streak-stats)
 
 
 <!--
