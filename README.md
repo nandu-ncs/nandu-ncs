@@ -1,6 +1,6 @@
 ### Hello World, NCS Here ! <br>
 
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate software developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandu-ncs&label=Profile%20views&color=0e75b6&style=flat" alt="nandu-ncs" /> </p>
 
